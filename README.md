@@ -8,7 +8,7 @@
 * （二）单纯事实消息；
 * （三）历法、通用数表、通用表格和公式。
 
-## 收录信息 <a href="#shou-lu-xin-xi" id="shou-lu-xin-xi"></a>
+## 收录信息 [#](https://lawrefbook.github.io/#%e6%94%b6%e5%bd%95%e4%bf%a1%e6%81%af) <a href="#shou-lu-xin-xi" id="shou-lu-xin-xi"></a>
 
 * 法律: 403 部
 * 司法解释: 392 部
